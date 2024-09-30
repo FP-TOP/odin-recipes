@@ -1,0 +1,21 @@
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+li  {
+    list-style: none;
+}
+
+h1, h2, p, ul, li {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(191, 169, 29);
+}
+
+h2 {
+    background-color: black;
+    color: white;
+}
