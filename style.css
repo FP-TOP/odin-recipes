@@ -5,7 +5,11 @@
 
 h1 {
     font-size: 50px;
-    color: rgb(191, 169, 29);
+    color: rgb(214, 63, 13);
+    background-color: rgb(62, 60, 60);
+    margin: 10px 400px;
+    padding: 10px;
+    border: thick double rgb(214, 63, 13);;
 }
 
 ul {
